@@ -2,7 +2,8 @@
 
 1. Primeiro acesse o Link <a href="https://mega.nz/file/X1dSVShY#Q3czibT2ETQcT3c7PR4ZiFez-3CyZ3KU2ftUxHKHeEs" target="_blank">clicando aqui</a>
 2. clique em fazer download
-![fazer download](https://cdn.discordapp.com/attachments/768518334231609397/988523614364123257/9.png)
+<img src="https://cdn.discordapp.com/attachments/768518334231609397/988523614364123257/9.png" height="600px"/>
+
 3. clique em salvar arquivo ![salvar](https://cdn.discordapp.com/attachments/768518334231609397/988525495098433586/8.png)
 4. Selecione 'Fazer o download mesmo assim' ![fazer o download](https://media.discordapp.net/attachments/768518334231609397/988523613923713174/7.png?width=445&height=671)
 5. Após o download ser concluído clique em abrir ![abrir](https://media.discordapp.net/attachments/768518334231609397/988523613705629716/6.png?width=720&height=389)
